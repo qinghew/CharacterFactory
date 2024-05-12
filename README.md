@@ -5,7 +5,7 @@
 </div>
 
 ## News
-- **[2024.05.13]**: Release **training and inference codes**!
+- **[2024.05.12]**: Release **training and inference codes**!
 
 <img src="https://qinghew.github.io/CharacterFactory/static/images/teaser.svg" width="100%">
 
@@ -32,10 +32,11 @@ More results can be found in our [Project Page](https://qinghew.github.io/Charac
 
 
 ### Train
-The trained IDE-GAN model will be saved in `training_weight`.
+**We have already provided the pretrained weights in `training_weight`.**
   ```bash
   python train.py --experiment_name="normal_GAN"
   ```
+The trained IDE-GAN model will be saved in `training_weight`.
 
 
 ### Test
