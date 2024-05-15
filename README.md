@@ -5,7 +5,7 @@
 </div>
 
 ## News
-- **[2024.05.12]**: Release **training and inference codes**!
+- **[2024.05.15]**: Release **training and inference codes**!
 
 <img src="https://qinghew.github.io/CharacterFactory/static/images/teaser.svg" width="100%">
 
