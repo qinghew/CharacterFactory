@@ -9,7 +9,6 @@ import gradio as gr
 import requests
 import time
 import random
-from style_template import styles
 import numpy as np
 import torch
 import os
@@ -130,7 +129,6 @@ woman_Embedding_Manager = models.embedding_manager.EmbeddingManagerId_adain(
         vit_out_dim = input_dim,
 )
 
-STYLE_NAMES = list(styles.keys())
 DEFAULT_STYLE_NAME = "Watercolor"
 MAX_SEED = np.iinfo(np.int32).max
 
