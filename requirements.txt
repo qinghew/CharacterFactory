@@ -12,3 +12,4 @@ opencv-python
 opencv-contrib-python
 gradio
 huggingface_hub==0.22.2
+IPython
