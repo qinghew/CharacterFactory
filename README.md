@@ -1,6 +1,3 @@
-<div align="center">
-
-
 ## CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models
 
 ### Installation
