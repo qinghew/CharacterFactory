@@ -5,6 +5,7 @@
 </div>
 
 ## News
+- **[2025.03.31]**: Accepted to IEEE Transactions on Image Processing (TIP) 2025!
 - **[2024.05.16]**: Release **a Gradio Demo**! Thanks HuggingFace and AK!
 - **[2024.05.15]**: Release **training and inference codes**!
 
