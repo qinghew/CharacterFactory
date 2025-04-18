@@ -61,10 +61,11 @@ The results will be generated in `test_results/{index}/`.
 ### Citation	
 
 ```
-@article{wang2024characterfactory,
-  title={CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models},
+@article{wang2025characterfactory,
+  title={Characterfactory: Sampling consistent characters with gans for diffusion models},
   author={Wang, Qinghe and Li, Baolu and Li, Xiaomin and Cao, Bing and Ma, Liqian and Lu, Huchuan and Jia, Xu},
-  journal={arXiv preprint arXiv:2404.15677},
-  year={2024}
+  journal={IEEE Transactions on Image Processing},
+  year={2025},
+  publisher={IEEE}
 }
 ```
