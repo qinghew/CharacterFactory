@@ -1,7 +1,7 @@
 <div align="center">
   
 ## CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models
-🤗[[Gradio Demo](https://huggingface.co/spaces/DecoderWQH666/CharacterFactory)]🔥 &emsp; [[Paper](https://arxiv.org/abs/2404.15677)] &emsp; [[Project Page](https://qinghew.github.io/CharacterFactory/)]
+🤗[[Gradio Demo](https://huggingface.co/spaces/Qinghew/CharacterFactory)]🔥 &emsp; [[Paper](https://arxiv.org/abs/2404.15677)] &emsp; [[Project Page](https://qinghew.github.io/CharacterFactory/)]
 </div>
 
 ## News
